@@ -3,7 +3,7 @@
  * description: For umi application.
  * homepage: https://github.com/afeiship/next-react-umi
  * version: 1.0.0
- * date: 2020-11-22 15:29:26
+ * date: 2020-11-22 15:30:11
  * license: MIT
  */
 
